@@ -1,0 +1,500 @@
+{
+	"folder_history":
+	[
+		"/D/xampp/htdocs/ANGULAR/bai1",
+		"/E/www/tools/update_wp_db_after_change_server",
+		"/C/Users/ThanhLD/Desktop/BNGW/2017-12-06/bt1",
+		"/C/Users/ThanhLD/Desktop/demo/bt2",
+		"/C/Users/ThanhLD/Desktop/demo/bt1",
+		"/E/www/pvcbag/wp-content/themes/mytheme",
+		"/C/Users/ThanhLD/Desktop/bt2b",
+		"/C/Users/ThanhLD/Desktop/bt2",
+		"/C/Users/ThanhLD/Desktop/bt1",
+		"/E/www/star-garden/_design/front-end",
+		"/E/www/star-garden/wp-content/themes/mytheme",
+		"/E/www/wp-starter-mytheme/wp-content/themes/mytheme",
+		"/E/www/star-garden/front-end",
+		"/E/www/daugia/wp-content/themes/mytheme",
+		"/E/www/thocuchuoi.com-wp/wp-content/themes",
+		"/E/www/thocuchuoi.com-wp/wp-content",
+		"/D/www/thocuchuoi.com-wp/wp-content/themes/mytheme",
+		"/E/Dropbox/MyData/My-Online-Courses/thiet-ke-web-cho-nguoi-moi-bat-dau/draft/demo",
+		"/C/Users/ThanhLD/Desktop/draft"
+	],
+	"last_version": 3143,
+	"last_window_id": 43,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mat",
+						"margin-top"
+					],
+					[
+						"u",
+						"hqdefault.jpg\tw:480 h:360"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"backc",
+						"background-color"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Install Package Control"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/index.php",
+				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
+				"/C/Users/ThanhLD/Desktop/draft/index.html",
+				"/E/www/thocuchuoi.com-wp/wp-content/index.php",
+				"/D/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
+				"/C/Users/ThanhLD/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/style.css",
+				"/C/Users/ThanhLD/Desktop/draft/IMG_6176.jpg"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"footer",
+					".entry-title, .entry-content h2:first-child",
+					".page h",
+					".page",
+					".entry-title, .entry-content h2:first-child",
+					".page "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 245.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mat",
+						"margin-top"
+					],
+					[
+						"u",
+						"hqdefault.jpg\tw:480 h:360"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"backc",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/xampp/htdocs/ANGULAR/bai1/index.html",
+					"settings":
+					{
+						"buffer_size": 1043,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/xampp/htdocs/ANGULAR/bai1/1.js",
+					"settings":
+					{
+						"buffer_size": 108,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 89.0,
+				"last_filter": "LiveReload: Enable/disable plugins",
+				"selected_items":
+				[
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Install Package Control"
+					]
+				],
+				"width": 565.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/D/Sublime_Text_Build_3126_x64/Data/Packages/User/Emmet.sublime-settings",
+				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/index.php",
+				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
+				"/C/Users/ThanhLD/Desktop/draft/index.html",
+				"/E/www/thocuchuoi.com-wp/wp-content/index.php",
+				"/D/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
+				"/C/Users/ThanhLD/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/style.css",
+				"/C/Users/ThanhLD/Desktop/draft/IMG_6176.jpg"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\xampp\\htdocs\\ANGULAR\\bai1"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/xampp/htdocs/ANGULAR/bai1/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1043,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										504,
+										504
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/xampp/htdocs/ANGULAR/bai1/1.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 108,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,854,342,237,1316",
+			"project": "",
+			"replace":
+			{
+				"height": 59.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 140.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 43,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/www/sublime-projects/ThoCuChuoi.sublime-workspace",
+			"/E/www/sublime-projects/DauGia.sublime-workspace",
+			"/E/www/sublime-projects/stargarden.sublime-workspace",
+			"/E/www/sublime-projects/wp-starter-mytheme.sublime-workspace",
+			"/E/www/thocuchuoi.com-wp/wp-content/ThoCuChuoi.sublime-workspace"
+		]
+	}
+}
